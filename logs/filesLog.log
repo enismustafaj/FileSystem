@@ -1,0 +1,16 @@
+Nov 29, 2019 9:21:00 PM Files appendFile
+CONFIG: Text appended
+Nov 29, 2019 9:21:00 PM Files writeFile
+CONFIG: Text is written to file
+Nov 29, 2019 9:21:00 PM Files readFile
+INFO: halo
+Nov 29, 2019 9:21:00 PM Files move
+CONFIG: File moved
+Nov 29, 2019 9:21:00 PM Files createNew
+CONFIG: File is created
+Nov 29, 2019 9:21:00 PM Files dirToDir
+CONFIG: Files Moved
+Nov 29, 2019 9:21:00 PM Files delete
+CONFIG: File deleted
+Nov 29, 2019 9:21:00 PM Files changeName
+CONFIG: File is renamed

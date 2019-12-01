@@ -1,0 +1,46 @@
+Dec 01, 2019 11:15:24 PM Directory createNew
+CONFIG: Directory created
+Dec 01, 2019 11:15:24 PM Files createNew
+CONFIG: File is created
+Dec 01, 2019 11:15:24 PM Files createNew
+CONFIG: File is created
+Dec 01, 2019 11:15:24 PM Files createNew
+CONFIG: File is created
+Dec 01, 2019 11:15:24 PM Directory createNew
+CONFIG: Directory created
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfile.txt
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfile2.txt
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfile8.txt
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfolder
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfolder2
+Dec 01, 2019 11:15:24 PM Files writeFile
+CONFIG: Text is written to file
+Dec 01, 2019 11:15:24 PM Files readFile
+INFO: this is a text
+Dec 01, 2019 11:15:24 PM Files rename
+WARNING: File with this name does not exist
+Dec 01, 2019 11:15:24 PM Files rename
+CONFIG: File is renamed
+Dec 01, 2019 11:15:24 PM Files appendToFile
+CONFIG: Text appended
+Dec 01, 2019 11:15:24 PM Files readFile
+INFO: this is a text appended text
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfile.txt
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfile4.txt
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfolder
+Dec 01, 2019 11:15:24 PM Directory showDirectory
+INFO: newfolder2
+Dec 01, 2019 11:15:24 PM Files delete
+CONFIG: File deleted
+Dec 01, 2019 11:15:24 PM Files delete
+WARNING: File does not exists
+Dec 01, 2019 11:15:24 PM Directory moveContent
+CONFIG: Files Moved

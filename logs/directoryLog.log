@@ -1,0 +1,38 @@
+Dec 01, 2019 10:52:40 PM Directory createNew
+CONFIG: Directory created
+Dec 01, 2019 10:52:40 PM Directory createNew
+CONFIG: Directory created
+Dec 01, 2019 10:52:40 PM Directory showDirectory
+INFO: newfolder1
+Dec 01, 2019 10:52:40 PM Directory showDirectory
+INFO: newfolder2
+Dec 01, 2019 10:52:40 PM Directory delete
+WARNING: Root directory cannot be deleted
+Dec 01, 2019 10:52:40 PM Directory delete
+CONFIG: Directory deleted
+Dec 01, 2019 10:52:40 PM Directory createNew
+CONFIG: Directory created
+Dec 01, 2019 10:52:40 PM Directory showDirectory
+INFO: newfolder2
+Dec 01, 2019 10:52:40 PM Directory showDirectory
+INFO: newfolder3
+Dec 01, 2019 10:52:40 PM Directory changeDirectory
+INFO: Your path is: C:\Root\newfolder2
+Dec 01, 2019 10:52:40 PM Directory changeDirectory
+INFO: Your path is:C:\Root
+Dec 01, 2019 10:52:40 PM Directory getParentDirectory
+INFO: Your path is:C:\Root
+Dec 01, 2019 10:52:40 PM Directory rename
+CONFIG: Directory is renamed
+Dec 01, 2019 10:52:40 PM Directory rename
+WARNING: Directory with this name does not exist
+Dec 01, 2019 10:52:40 PM Directory move
+CONFIG: Directory moved
+Dec 01, 2019 10:52:40 PM Directory showDirectory
+INFO: newfolder4
+Dec 01, 2019 10:52:40 PM Directory createNew
+CONFIG: Directory created
+Dec 01, 2019 10:52:40 PM Directory createNew
+CONFIG: Directory created
+Dec 01, 2019 10:52:40 PM Directory moveContent
+CONFIG: Files Moved
